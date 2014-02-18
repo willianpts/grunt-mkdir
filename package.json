@@ -41,5 +41,8 @@
   },
   "keywords": [
     "gruntplugin"
-  ]
+  ],
+  "dependencies": {
+    "posix": "~1.0.3"
+  }
 }
